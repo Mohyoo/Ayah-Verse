@@ -10,6 +10,7 @@ import sys
 from setproctitle import setproctitle, setthreadtitle
 from random import choice   # choice gives only an element, choices gives an element inside [].
 from time import sleep
+from random import randint
 from notifypy import Notify
 
 
@@ -52,9 +53,20 @@ setthreadtitle(PROCESS_NAME)
 check_background()
 
 # Open and get every ayah separated.
-text = open(f'{path}/Quran.txt')
-QURAN = text.read().strip().splitlines()
+text = open(f'{path}/Quran-simple.txt')
+QURAN = text.read().strip().splitlines()[:-28]
 text.close()
+
+for line in QURAN[:]:
+    line = line.strip()
+    if not line:
+        QURAN.remove(line)
+    elif line == 'بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ':
+        QURAN.remove(line)
+    elif 'بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ' in line:
+        index = QURAN.index(line)
+        new_line = line.replace('بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ', '').strip()
+        QURAN[index] = new_line
 
 # Prepare the notification.
 notification = Notify()
@@ -67,7 +79,7 @@ try:
     while True:
         # Randomly choose an ayah.
         ayah = choice(QURAN).strip()
-        sleep(3600)  # 3600s = 1h.
+        sleep(randint(2700, 4500))  	# 3600s = 1h.
 
         # Send the notification.
         notification.message = ayah
