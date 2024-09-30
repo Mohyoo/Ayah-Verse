@@ -1,5 +1,5 @@
 # Description:
-1) An app that displays an Ayah of the Quran (as a notification) from time to time.
+1) An app that displays an Ayah (verse) of the Quran (as a notification) from time to time.
 2) Super light, no UI, just a tray icon.
 3) For now, it should only work on Gnome.
 
@@ -14,4 +14,6 @@
 1) Put this folder wherever you want.
 2) Edit the text of (menulibre-آية.desktop) according to where you have put the 'Ayah' folder..
 3) Copy (menulibre-آية.desktop) to (/home/username/.local/share/applications/).
-4) Log out if necessary.
+4) Log out if necessary. <br>
+
+5) You can install the requirements by installing python first, then in a terminal, type 'pip install requirement_name'.
