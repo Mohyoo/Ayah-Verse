@@ -7,14 +7,15 @@
 1) Just download the portable zip file from the release page.
 
 # Installation for Linux:
-# Requirements (Python libraries):
+Requirements (Python libraries): <br>
 1) setproctitle
 2) notifypy
 3) pystray (also requires 'libappindicator-gtk3').
 4) PIL (pillow)
+<br>
 
 
-# Final steps:
+Final steps: <br>
 1) Put this folder wherever you want.
 2) Edit the text of (menulibre-آية.desktop) according to where you have put the 'Ayah' folder..
 3) Copy (menulibre-آية.desktop) to (/home/username/.local/share/applications/).
