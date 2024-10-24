@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Ayah Startup
+Icon=/home/mohyeddine/Documents/Python/Python/Projects/Ayah/icon.ico
+Type=Application
+Exec=python /home/mohyeddine/Documents/Python/Python/Projects/Ayah/Ayah_Startup.py
+Terminal=false

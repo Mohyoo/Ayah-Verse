@@ -1,0 +1,9 @@
+# Move this file to (/home/user/.local/share/applications/menulibre-آية.desktop) (remove this line).
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=آية
+Icon=/home/mohyeddine/Documents/Python/Python/Projects/Ayah/icon.ico
+Exec=python /home/mohyeddine/Documents/Python/Python/Projects/Ayah/Ayah.py
+Actions=
+Categories=Development;
