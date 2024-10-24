@@ -3,6 +3,10 @@
 2) Super light, no UI, just a tray icon.
 3) For now, it should only work on Gnome.
 
+# Installation for Windows:
+1) Just download the portable zip file from the release page.
+
+# Installation for Linux:
 # Requirements (Python libraries):
 1) setproctitle
 2) notifypy
@@ -10,7 +14,7 @@
 4) PIL (pillow)
 
 
-# Installation:
+# Final steps:
 1) Put this folder wherever you want.
 2) Edit the text of (menulibre-آية.desktop) according to where you have put the 'Ayah' folder..
 3) Copy (menulibre-آية.desktop) to (/home/username/.local/share/applications/).
