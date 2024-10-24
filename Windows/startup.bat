@@ -1,0 +1,1 @@
+echo cd C:\Users\Mohyoo\Programming\Projects\Ayah\ ^& start Ayah.exe > "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\Ayah.bat"
