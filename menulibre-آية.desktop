@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.1
-Type=Application
-Name=آية
-Icon=/path_to_Ayah_foler/icon.ico
-Exec=python /path_to_Ayah_foler/Ayah.py
-Actions=
-Categories=Development;
