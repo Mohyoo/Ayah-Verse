@@ -7,7 +7,7 @@
 1) Just download the portable zip file from the release page.
 
 # Installation for Linux:
-You can install the requirements by installing python first, then in a terminal, type 'pip install requirement_name'. <br> <br>
+You can install the requirements by installing python first, then in a terminal, type "pip install requirement_name". <br> <br>
 Requirements (Python libraries): <br>
 1) setproctitle
 2) notifypy
@@ -17,7 +17,7 @@ Requirements (Python libraries): <br>
 
 
 Final steps: <br>
-1) Download the "Linux" folder & Put it wherever you want.
+1) Download the "Linux" folderb name it as "Ayah" & Put it wherever you want.
 2) Edit the text of (menulibre-آية.desktop) according to where you have put the 'Ayah' folder..
 3) Copy (menulibre-آية.desktop) to (/home/username/.local/share/applications/).
 4) Log out if necessary. <br>
