@@ -12,6 +12,7 @@ Requirements (Python libraries): <br>
 2) notifypy
 3) pystray (also requires 'libappindicator-gtk3').
 4) PIL (pillow)
+5) You can install the requirements by installing python first, then in a terminal, type 'pip install requirement_name'.
 <br>
 
 
@@ -20,8 +21,6 @@ Final steps: <br>
 2) Edit the text of (menulibre-آية.desktop) according to where you have put the 'Ayah' folder..
 3) Copy (menulibre-آية.desktop) to (/home/username/.local/share/applications/).
 4) Log out if necessary. <br>
-
-5) You can install the requirements by installing python first, then in a terminal, type 'pip install requirement_name'.
 
 # Known Issues:
 1) Windows OS may detect it as a Trojan, maybe because it has access to the command line; and I will try to fix this when possible.
