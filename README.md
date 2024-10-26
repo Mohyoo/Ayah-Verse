@@ -1,7 +1,7 @@
 # Description:
 1) An app that displays an Ayah (verse) of the Quran (as a notification) from time to time.
 2) Super light, no UI, just a tray icon.
-3) For now, it should only work on Gnome.
+3) For linux, it should only work on Gnome.
 
 # Installation for Windows:
 1) Just download the portable zip file from the release page.
