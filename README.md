@@ -22,3 +22,6 @@ Final steps: <br>
 4) Log out if necessary. <br>
 
 5) You can install the requirements by installing python first, then in a terminal, type 'pip install requirement_name'.
+
+# Known Issues:
+1) Windows OS may detect it as a Trojan, maybe because it has access to the command line; and I will try to fix this when possible.
