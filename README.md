@@ -7,7 +7,7 @@
 1) Just download the portable zip file from the release page.
 
 # Installation for Linux:
-You can install the requirements by installing python first, then in a terminal, type 'pip install requirement_name'. <br>
+You can install the requirements by installing python first, then in a terminal, type 'pip install requirement_name'. <br> <br>
 Requirements (Python libraries): <br>
 1) setproctitle
 2) notifypy
