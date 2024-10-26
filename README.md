@@ -24,3 +24,4 @@ Final steps: <br>
 
 # Known Issues:
 1) Windows OS may detect it as a Trojan, maybe because it has access to the command line; and I will try to fix this when possible.
+2) It may not work if you put in a protected folder, like "program files x86".
