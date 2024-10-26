@@ -16,7 +16,7 @@ Requirements (Python libraries): <br>
 
 
 Final steps: <br>
-1) Download the "Linux" folder & Put this it wherever you want.
+1) Download the "Linux" folder & Put it wherever you want.
 2) Edit the text of (menulibre-آية.desktop) according to where you have put the 'Ayah' folder..
 3) Copy (menulibre-آية.desktop) to (/home/username/.local/share/applications/).
 4) Log out if necessary. <br>
