@@ -1,0 +1,4 @@
+notifications_on = 1
+notify_times = 3
+dark_theme_on = 1
+language = العربية
