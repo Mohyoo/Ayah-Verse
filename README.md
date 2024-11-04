@@ -3,6 +3,10 @@
 2) Super light, no UI, just a tray icon.
 3) For linux, it should only work on Gnome.
 
+# Installation for Android:
+1) Here is the (.apk) file: https://drive.google.com/file/d/1N5A9_HdxFKMIjWYFDFCWrdydwQx3CZIY/view?usp=sharing
+2) I still don't know how to upload a file larger than 25MB here 
+
 # Installation for Windows:
 1) Just download the portable zip file from the release page.
 
