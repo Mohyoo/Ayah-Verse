@@ -10,6 +10,7 @@
 
 # Installation for Windows:
 1) Just download the portable zip file from the release page.
+2) <b>Note:<b> If -for whatever reason- it doesn't launch or work, just unzip the downloaded file again and delete the old files.
 
 # Installation for Linux:
 You can install the requirements by installing python first, then in a terminal, type "pip install requirement_name". <br> <br>
