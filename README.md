@@ -3,14 +3,9 @@
 2) Super light, no UI, just a tray icon.
 3) For linux, it should only work on Gnome.
 
-# Installation for Android:
-1) Here is the (.apk) file: https://drive.google.com/file/d/1N5A9_HdxFKMIjWYFDFCWrdydwQx3CZIY/view?usp=sharing
-2) Sadly, this android version doesn't support notifications; I'm working on it.
-3) I still don't know how to upload a file larger than 25MB here.
-
-# Installation for Windows:
-1) Just download the portable zip file from the release page.
-2) <b>Note:</b> If -for whatever reason- it doesn't launch or work, just unzip the downloaded file again and delete the old files.
+# Installation for Windows & Android:
+1) Just download binaries from the [releases](https://github.com/Mohyoo/Ayah-Verse/releases) page.
+> Sadly, the android version doesn't support notifications.
 
 # Installation for Linux:
 You can install the requirements by installing python first, then in a terminal, type "pip install requirement_name". <br> <br>
@@ -21,7 +16,6 @@ Requirements (Python libraries): <br>
 4) PIL (pillow)
 <br>
 
-
 Final steps: <br>
 1) Download the "Linux" folder, name it as "Ayah" & Put it wherever you want.
 2) Edit the text of (menulibre-آية.desktop) according to where you have put the 'Ayah' folder..
@@ -29,5 +23,5 @@ Final steps: <br>
 4) Log out if necessary. <br>
 
 # Known Issues:
-1) Windows OS may detect it as a Trojan, maybe because it has access to the command line; and I will try to fix this when possible.
-2) It may not work if you put in a protected folder, like "program files x86".
+1) Windows OS may detect it as a Trojan, maybe because it has access to the command line; and I will try to fix this when possible. Also ,it may not work if you put in a protected folder, like "program files x86".
+2) Linux version may be buggy on new distros.
